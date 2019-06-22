@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="640"
+   viewBox="0 0 507.99998 169.33334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="chiccheDiC.svg"
+   inkscape:export-filename="/home/valentina/Desktop/chiccheDiC.png"
+   inkscape:export-xdpi="404"
+   inkscape:export-ydpi="404">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.25"
+     inkscape:cx="1187.5399"
+     inkscape:cy="380.55507"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     height="190mm"
+     units="px"
+     inkscape:window-width="1299"
+     inkscape:window-height="713"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-127.66666)">
+    <rect
+       style="fill:#0000b3;fill-rule:evenodd;stroke-width:0.26458332;stroke:none;stroke-opacity:1;fill-opacity:1"
+       id="rect845"
+       width="508"
+       height="169.33333"
+       x="-1.1131244e-06"
+       y="127.66666" />
+    <path
+       style="fill:#3a3aff;stroke:#0000fe;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 507.99999,127.66666 -1.1131244e-6,297 V 127.66666 Z"
+       id="path847"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#0000ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 507.99999,127.66666 V 297 L 254.83734,212.19278 Z"
+       id="path862"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:0.98477155;fill-rule:nonzero;stroke:#0000fe;stroke-width:0.28990325;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 960 57.990234 A 262.00942 262.00942 0 0 0 697.99023 320 A 262.00942 262.00942 0 0 0 960 582.00977 A 262.00942 262.00942 0 0 0 1208.6602 401.93945 L 1141.4141 379.34961 A 191.00552 191.00552 0 0 1 960 511.00586 A 191.00552 191.00552 0 0 1 768.99414 320 A 191.00552 191.00552 0 0 1 960 128.99414 A 191.00552 191.00552 0 0 1 1140.9551 259.60742 L 1208.1641 236.97852 A 262.00942 262.00942 0 0 0 960 57.990234 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,127.66666)"
+       id="path875" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot898"
+       style="font-style:normal;font-weight:normal;font-size:266.66665649px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,102.18326,175.46753)"><flowRegion
+         id="flowRegion900"><rect
+           id="rect902"
+           width="2112"
+           height="740"
+           x="-208.88602"
+           y="-10.208013" /></flowRegion><flowPara
+         id="flowPara904"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Waree;-inkscape-font-specification:Waree;fill:#000000;fill-opacity:0.57360405">CHICCHE DI</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot906"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:18.66666667px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion908"><rect
+           id="rect910"
+           width="320"
+           height="176"
+           x="2432"
+           y="900" /></flowRegion><flowPara
+         id="flowPara912"></flowPara></flowRoot>  </g>
+</svg>
